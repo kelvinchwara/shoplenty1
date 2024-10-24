@@ -1,0 +1,102 @@
+#heading1{
+    text-align: center;
+    color: blue;
+    font-weight: bolder;
+}
+#p1{
+    font-size: 50px;
+}
+#heading2{
+    font-style: revert;
+    color: #d60d0d;
+}
+.one{
+    font-weight: bold;
+    font-style: oblique;
+}
+#mydiv{
+    background-color: #0022ff;
+    margin: 50px;
+    padding: 30px;
+    color: #ffffff;
+    font-weight: bolder;
+}
+#div1{
+    background-color: #d60d0d;
+    margin: 50px;
+    padding: 30px;
+    display: flex;
+    color: white;
+}
+#div1 p{
+    margin-left: 30px;
+}
+#div1 img{
+    border-radius: 300px;
+    height: 250px;
+    width: 250px;
+}
+#main{
+    display: flex;
+}
+#advertisement{
+    background-color: darkblue;
+    margin-right: 20px;
+    padding: 20px;
+    box-shadow: 10px 10px 10px #d60d0d;
+}
+#advertisement img{
+    border-bottom-right-radius: 30px;
+    background-color: #6a063b;
+}
+#advertisement button{
+    background-color: #0eb1d5;
+}
+#advertisement button:hover{
+    background-color: #d60d0d;
+}
+#Accounting{
+    background-color: darkgreen;
+    padding: 20px;
+    box-shadow: 10px 10px 10px orangered;
+}
+#Accounting img{
+    border-bottom-right-radius: 30px;
+    background-color: #031271;
+}
+#Accounting button{
+    background-color: #0eb1d5;
+}
+#Accounting button:hover{
+    background-color: #d60d0d;
+}
+#Payment{
+    background-color: rgba(189, 8, 51, 0.73);
+    margin-left: 20px;
+    padding: 20px;
+    box-shadow: 10px 10px 10px #d6cc0d;
+}
+#Payment img{
+   border-bottom-right-radius: 30px;
+    background-color: #0eb1d5;
+}
+#Payment button{
+    background-color: #0eb1d5;
+}
+#Payment button:hover{
+    background-color: #d60d0d;
+}
+#advertisement:hover,#Accounting:hover,#Payment:hover{
+    background-color: darkred;
+}
+a{
+   text-decoration: none;
+            color: #0022ff;
+            padding: 15px 30px;
+            background-color: #00ff19;
+            border-radius: 10px;
+            margin-right: 10px;
+}
+a:hover{
+    background-color: #ffffff;
+}
